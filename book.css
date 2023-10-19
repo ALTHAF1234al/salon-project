@@ -1,0 +1,32 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.reg h2{
+    margin-left: 40%;
+    font-size: 5vh;
+    margin-top: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    /* font-weight: 200; */
+}
+.bar{
+    margin-left: 40%;
+    margin-top: 2%;
+    float: left;
+    width: 20%;
+    border-color: blueviolet;
+    border-radius: 5%;
+}
+.il img{
+    /* display: flex; */
+    width: 15%;
+    margin-left: -50%;
+    margin-top: 10%;
+}
+
+
+
+
+   
